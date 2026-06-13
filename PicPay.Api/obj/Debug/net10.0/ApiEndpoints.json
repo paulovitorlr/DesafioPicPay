@@ -30,5 +30,21 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PicPay.Api.Controllers.Controller_Transfer.ControllerTransfer",
+    "Method": "Transfer",
+    "RelativePath": "api/transfer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "PicPay.Api.DTOs.DTO_Trasnferencia.TransferDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

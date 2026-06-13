@@ -1,7 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using PicPay.Api.Data;
 using PicPay.Api.Repositories;
+using PicPay.Api.Repositories.Transfer_Repositories;
 using PicPay.Api.Services.Auth_Services;
+using PicPay.Api.Services.Transfer_Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,9 +14,11 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 // Repository
 builder.Services.AddSingleton<IAuthRepository, FakeUserRepository>();
+builder.Services.AddSingleton<ITransferRepository, FakeTransferRepository>();
 
 // Service
 builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddHttpClient<ITransferService, TransferService>();
 
 builder.Services.AddControllers();
 

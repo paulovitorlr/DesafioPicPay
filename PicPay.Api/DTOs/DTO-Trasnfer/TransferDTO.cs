@@ -1,9 +1,10 @@
 ﻿namespace PicPay.Api.DTOs.DTO_Trasnferencia;
 
-public class TransferenciaDTO
+public class TransferDTO
 {
    public int Payer {  get; set; }
    public int Payee { get; set; }
-   decimal Value { get; set; }
+   public decimal Value { get; set; }
+
 }
 

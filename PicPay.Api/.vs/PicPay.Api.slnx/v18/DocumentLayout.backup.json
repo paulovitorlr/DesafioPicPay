@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "E:\\github\\Desafio_PicPay\\PicPay.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|e:\\github\\desafio_picpay\\picpay.api\\picpay.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|solutionrelative:picpay.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|e:\\github\\desafio_picpay\\picpay.api\\repositories\\transfer-repositories\\transferfake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|solutionrelative:repositories\\transfer-repositories\\transferfake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|e:\\github\\desafio_picpay\\picpay.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|e:\\github\\desafio_picpay\\picpay.api\\repositories\\auth-repositories\\repofake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|solutionrelative:repositories\\auth-repositories\\repofake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|e:\\github\\desafio_picpay\\picpay.api\\controllers\\controller-transfer\\controllertransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|solutionrelative:controllers\\controller-transfer\\controllertransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|e:\\github\\desafio_picpay\\picpay.api\\controllers\\controller-auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|solutionrelative:controllers\\controller-auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|e:\\github\\desafio_picpay\\picpay.api\\repositories\\transfer-repositories\\transferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|solutionrelative:repositories\\transfer-repositories\\transferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|e:\\github\\desafio_picpay\\picpay.api\\repositories\\auth-repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|solutionrelative:repositories\\auth-repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|e:\\github\\desafio_picpay\\picpay.api\\services\\transfer-service\\transferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|solutionrelative:services\\transfer-service\\transferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|e:\\github\\desafio_picpay\\picpay.api\\services\\transfer-service\\itransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|solutionrelative:services\\transfer-service\\itransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|e:\\github\\desafio_picpay\\picpay.api\\repositories\\transfer-repositories\\itransferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|solutionrelative:repositories\\transfer-repositories\\itransferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|e:\\github\\desafio_picpay\\picpay.api\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|e:\\github\\desafio_picpay\\picpay.api\\dtos\\dto-trasnfer\\transferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|solutionrelative:dtos\\dto-trasnfer\\transferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,27 +51,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PicPay.Api",
-              "DocumentMoniker": "E:\\github\\Desafio_PicPay\\PicPay.Api\\PicPay.Api.csproj",
-              "RelativeDocumentMoniker": "PicPay.Api.csproj",
-              "ToolTip": "E:\\github\\Desafio_PicPay\\PicPay.Api\\PicPay.Api.csproj",
-              "RelativeToolTip": "PicPay.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-13T17:16:34.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RepoFake.cs",
-              "DocumentMoniker": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Repositories\\Auth-Repositories\\RepoFake.cs",
-              "RelativeDocumentMoniker": "Repositories\\Auth-Repositories\\RepoFake.cs",
-              "ToolTip": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Repositories\\Auth-Repositories\\RepoFake.cs",
-              "RelativeToolTip": "Repositories\\Auth-Repositories\\RepoFake.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Title": "TransferFake.cs",
+              "DocumentMoniker": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Repositories\\Transfer-Repositories\\TransferFake.cs",
+              "RelativeDocumentMoniker": "Repositories\\Transfer-Repositories\\TransferFake.cs",
+              "ToolTip": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Repositories\\Transfer-Repositories\\TransferFake.cs",
+              "RelativeToolTip": "Repositories\\Transfer-Repositories\\TransferFake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T17:13:34.197Z",
+              "WhenOpened": "2026-06-13T19:03:57.333Z",
               "EditorCaption": ""
             },
             {
@@ -66,35 +69,100 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T17:10:51.537Z",
+              "WhenOpened": "2026-06-13T18:42:44.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Controllers\\Controller-Auth\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\Controller-Auth\\AuthController.cs",
-              "ToolTip": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Controllers\\Controller-Auth\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\Controller-Auth\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ControllerTransfer.cs",
+              "DocumentMoniker": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Controllers\\Controller-Transfer\\ControllerTransfer.cs",
+              "RelativeDocumentMoniker": "Controllers\\Controller-Transfer\\ControllerTransfer.cs",
+              "ToolTip": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Controllers\\Controller-Transfer\\ControllerTransfer.cs",
+              "RelativeToolTip": "Controllers\\Controller-Transfer\\ControllerTransfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T17:06:02.395Z",
+              "WhenOpened": "2026-06-13T18:39:31.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AuthRepository.cs",
-              "DocumentMoniker": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Repositories\\Auth-Repositories\\AuthRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Auth-Repositories\\AuthRepository.cs",
-              "ToolTip": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Repositories\\Auth-Repositories\\AuthRepository.cs",
-              "RelativeToolTip": "Repositories\\Auth-Repositories\\AuthRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "TransferService.cs",
+              "DocumentMoniker": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Services\\Transfer-Service\\TransferService.cs",
+              "RelativeDocumentMoniker": "Services\\Transfer-Service\\TransferService.cs",
+              "ToolTip": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Services\\Transfer-Service\\TransferService.cs",
+              "RelativeToolTip": "Services\\Transfer-Service\\TransferService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T16:24:25.707Z",
+              "WhenOpened": "2026-06-13T18:28:01.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransferRepository.cs",
+              "DocumentMoniker": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Repositories\\Transfer-Repositories\\TransferRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Transfer-Repositories\\TransferRepository.cs",
+              "ToolTip": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Repositories\\Transfer-Repositories\\TransferRepository.cs",
+              "RelativeToolTip": "Repositories\\Transfer-Repositories\\TransferRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:21:36.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITransferService.cs",
+              "DocumentMoniker": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Services\\Transfer-Service\\ITransferService.cs",
+              "RelativeDocumentMoniker": "Services\\Transfer-Service\\ITransferService.cs",
+              "ToolTip": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Services\\Transfer-Service\\ITransferService.cs",
+              "RelativeToolTip": "Services\\Transfer-Service\\ITransferService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:26:04.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:24:36.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITransferRepository.cs",
+              "DocumentMoniker": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Repositories\\Transfer-Repositories\\ITransferRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Transfer-Repositories\\ITransferRepository.cs",
+              "ToolTip": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Repositories\\Transfer-Repositories\\ITransferRepository.cs",
+              "RelativeToolTip": "Repositories\\Transfer-Repositories\\ITransferRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:20:50.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransferDTO.cs",
+              "DocumentMoniker": "E:\\github\\Desafio_PicPay\\PicPay.Api\\DTOs\\DTO-Trasnfer\\TransferDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTO-Trasnfer\\TransferDTO.cs",
+              "ToolTip": "E:\\github\\Desafio_PicPay\\PicPay.Api\\DTOs\\DTO-Trasnfer\\TransferDTO.cs",
+              "RelativeToolTip": "DTOs\\DTO-Trasnfer\\TransferDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T17:53:30.954Z",
               "EditorCaption": ""
             }
           ]

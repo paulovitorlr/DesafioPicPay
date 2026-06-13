@@ -13,6 +13,17 @@ public class TransferRepository : ITransferRepository
         _context = context;
     }
 
+    public User? GetById(int id)
+    {
+        return _context.Users.FirstOrDefault(user => user.Id == id);
+    }
+        
+    public void UpdateBalances(User payer, User payee, decimal value)
+    {
+        payer.Balance -= value;
+        payee.Balance += value;
+        _context.SaveChanges();
+    }
    
 }
 
