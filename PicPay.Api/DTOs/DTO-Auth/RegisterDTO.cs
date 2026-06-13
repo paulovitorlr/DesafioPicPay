@@ -3,10 +3,10 @@
     public class RegisterDTO
     {
         
-        public string NomeCompleto { get; set; }
+        public string FullName { get; set; }
         public string Email { get; set; }
-        public string Documento { get; set; }
-        public string Senha { get; set; }
+        public string Document { get; set; }
+        public string Password { get; set; }
         
 
     }

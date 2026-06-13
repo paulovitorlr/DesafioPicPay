@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XHKYf+1xgdc=",
+  "dgSpecHash": "OcFunTVrWkU=",
   "success": true,
-  "projectFilePath": "E:\\github\\Desafio_PicPay\\Service\\PicPay.Api\\PicPay.Api.csproj",
+  "projectFilePath": "E:\\github\\Desafio_PicPay\\PicPay.Api\\PicPay.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paulo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
     "C:\\Users\\paulo\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.8\\microsoft.entityframeworkcore.10.0.8.nupkg.sha512",

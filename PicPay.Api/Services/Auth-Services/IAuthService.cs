@@ -6,6 +6,7 @@ namespace PicPay.Api.Services.Auth_Services;
 
 public interface IAuthService
 {
-
+    void Register(RegisterDTO dto);
+    bool Login(LoginDTO dto);
 }
 
