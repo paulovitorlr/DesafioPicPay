@@ -1,5 +1,0 @@
-Monolito a primeiro momento
-Cadastrar o Usuário
-Ele pode ser tanto Lojista quanto cliente.
-Sem banco de dados, salvar tudo em memória
-Depois do cliente registrado, ele deverá conseguir receber e realizar transferencia
