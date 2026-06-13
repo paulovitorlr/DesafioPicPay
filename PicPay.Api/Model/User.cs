@@ -10,5 +10,5 @@ public class User
     public string Password { get; set; }
     public string DocumentType { get; set; }
 
-    public decimal Balance = 100;
+    public decimal Balance { get; set; } = 100;
 }

@@ -1,0 +1,20 @@
+# Dados sensíveis
+appsettings.json
+appsettings.Development.json
+
+# Arquivos de build
+bin/
+obj/
+
+# Visual Studio
+*.user
+*.suo
+*.tmp
+*.Backup.tmp
+.vs/
+
+# Rider
+.idea/
+
+# Logs
+*.log

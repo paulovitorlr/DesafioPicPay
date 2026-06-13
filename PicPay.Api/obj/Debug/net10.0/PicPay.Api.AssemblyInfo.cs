@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PicPay.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba4499183abde59f26b5c0fd3d83892756bfd72f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c61c37f4066c641999335658ce4b7275f4705d9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PicPay.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PicPay.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
