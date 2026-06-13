@@ -52,7 +52,7 @@ public class AuthService : IAuthService
 
         if (user == null) 
             return false;
-        return user.Password == dto.Senha;
+        return user.Password == dto.Password;
     }
 
     private string DocumentType(string document)

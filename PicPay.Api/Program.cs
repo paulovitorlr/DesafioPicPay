@@ -1,34 +1,30 @@
 using Microsoft.EntityFrameworkCore;
 using PicPay.Api.Data;
 using PicPay.Api.Repositories;
-using PicPay.Api.Repositories.Transfer_Repositories;
 using PicPay.Api.Services.Auth_Services;
-using PicPay.Api.Services.Transferencia_Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Controllers
-builder.Services.AddControllers();
-
 // DbContext
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseInMemoryDatabase("PicPayDb"));
+    options.UseSqlServer(
+        builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// Injeção de dependência
-builder.Services.AddScoped<IAuthRepository, AuthRepository>();
+// Repository
+builder.Services.AddSingleton<IAuthRepository, FakeUserRepository>();
+
+// Service
 builder.Services.AddScoped<IAuthService, AuthService>();
 
-builder.Services.AddScoped<ITransferService, TransferService>();
-builder.Services.AddScoped<ITransferRepository, TransferRepository>();
+builder.Services.AddControllers();
+
+builder.Services.AddEndpointsApiExplorer();
 
 
 var app = builder.Build();
 
 
-
 app.UseHttpsRedirection();
-
-app.UseAuthorization();
 
 app.MapControllers();
 

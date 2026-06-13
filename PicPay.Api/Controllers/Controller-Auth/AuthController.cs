@@ -16,14 +16,18 @@ public class AuthController : ControllerBase
     }
 
     [HttpPost("register")]
-    public async Task<IActionResult> Register([FromBody] RegisterDTO dto)
+    public IActionResult Register(RegisterDTO dto)
     {
-        
+        _authService.Register(dto);
+
+        return Ok("User created succesfully");
     }
 
     [HttpPost("login")]
-    public async Task<IActionResult> Login([FromBody] LoginDTO dto)
+    public IActionResult Login(LoginDTO dto)
     {
-        
+        _authService.Login(dto);
+
+        return Ok("Welcome Back!");
     }
 }

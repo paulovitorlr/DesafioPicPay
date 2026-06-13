@@ -1,12 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\github\\Desafio_PicPay\\Service\\PicPay.Api\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\github\\Desafio_PicPay\\PicPay.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|e:\\github\\desafio_picpay\\picpay.api\\picpay.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|solutionrelative:picpay.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|e:\\github\\desafio_picpay\\picpay.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|e:\\github\\desafio_picpay\\picpay.api\\repositories\\auth-repositories\\repofake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|solutionrelative:repositories\\auth-repositories\\repofake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|e:\\github\\desafio_picpay\\picpay.api\\controllers\\controller-auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|solutionrelative:controllers\\controller-auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|e:\\github\\desafio_picpay\\picpay.api\\repositories\\auth-repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA01976-A244-122D-DE8B-C1E3CDF5F0B3}|PicPay.Api.csproj|solutionrelative:repositories\\auth-repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PicPay.Api",
+              "DocumentMoniker": "E:\\github\\Desafio_PicPay\\PicPay.Api\\PicPay.Api.csproj",
+              "RelativeDocumentMoniker": "PicPay.Api.csproj",
+              "ToolTip": "E:\\github\\Desafio_PicPay\\PicPay.Api\\PicPay.Api.csproj",
+              "RelativeToolTip": "PicPay.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-13T17:16:34.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepoFake.cs",
+              "DocumentMoniker": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Repositories\\Auth-Repositories\\RepoFake.cs",
+              "RelativeDocumentMoniker": "Repositories\\Auth-Repositories\\RepoFake.cs",
+              "ToolTip": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Repositories\\Auth-Repositories\\RepoFake.cs",
+              "RelativeToolTip": "Repositories\\Auth-Repositories\\RepoFake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T17:13:34.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T17:10:51.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Controllers\\Controller-Auth\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Controller-Auth\\AuthController.cs",
+              "ToolTip": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Controllers\\Controller-Auth\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\Controller-Auth\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T17:06:02.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Repositories\\Auth-Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Auth-Repositories\\AuthRepository.cs",
+              "ToolTip": "E:\\github\\Desafio_PicPay\\PicPay.Api\\Repositories\\Auth-Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "Repositories\\Auth-Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T16:24:25.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
