@@ -12,8 +12,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Repository
-builder.Services.AddSingleton<IAuthRepository, FakeUserRepository>();
-builder.Services.AddSingleton<ITransferRepository, FakeTransferRepository>();
+builder.Services.AddScoped<IAuthRepository, AuthRepository>();
+builder.Services.AddScoped<ITransferRepository, TransferRepository>();
 
 // Service
 builder.Services.AddScoped<IAuthService, AuthService>();

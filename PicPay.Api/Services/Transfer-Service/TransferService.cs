@@ -22,6 +22,9 @@ public class TransferService : ITransferService
         var payee = _repository.GetById(dto.Payee)
             ?? throw new Exception("Payee not found");
 
+        if (payer.UserType == "CNPJ")
+            throw new Exception("Merchants cannot send transfers.");
+
         if (payer.Balance < dto.Value)
             throw new Exception("Insufficient balance.");
 

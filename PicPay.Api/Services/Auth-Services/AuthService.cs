@@ -41,7 +41,7 @@ public class AuthService : IAuthService
             Email = dto.Email,
             Document = dto.Document,
             Password = dto.Password,
-            DocumentType = typeDocument,
+            UserType = typeDocument == "CPF" ? "CNPJ" : dto.UserType
         };
         _repository.Create(user);
     }
